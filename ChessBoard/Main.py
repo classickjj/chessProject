@@ -5,7 +5,7 @@ This is the main class for handling input of the user and the graphical (output)
 import Engine
 import pygame as p
 
-WIDTH = HEIGHT = 768 #window size. (512 or 400 would also work)
+WIDTH = HEIGHT = 512 #window size. (768 or 400 would also work)
 DIMENSION = 8 #chessboard is 8x8
 SQ_SIZE = HEIGHT // DIMENSION #floor division (rounds to nearest whole number) (SQ_SIZE = square size)
 MAX_FPS = 15 #for animations
