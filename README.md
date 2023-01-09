@@ -1,4 +1,4 @@
-## next TODO: make the pices moveable
+## next TODO: make the pieces moveable
 
 # chessProject
 a little chess board, with the goal of implementing a simple chess AI
