@@ -1,3 +1,6 @@
+Since I did not have any python in any of my classes, i do these little projects to learn coding using python!
+Sometimes other Projects, especially the one's from University have higher priority, so it can take a while to finish a project!
+
 ## next TODO: make the pieces moveable
 
 # chessProject
